@@ -1,2 +1,5 @@
 my Name: sama
-my telefonnumber: 11111My ADDRESS
+my telefonnumber: 11111
+My ADDRESS:
+my Email-adresse
+
